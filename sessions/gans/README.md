@@ -1,8 +1,9 @@
 # Generative Adversarial Networks
 
 ## Presenters
-- 
+- Brad Erickson
+- Bardia Khosravi
 
 ## Session Date & Time
-Monday, November 29, 2021
-1:30 PM
+Tuesday, November 29, 2022
+11:30 AM

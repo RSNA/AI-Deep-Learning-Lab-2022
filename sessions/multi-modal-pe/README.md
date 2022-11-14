@@ -5,5 +5,5 @@
 - Matt Lungren
 
 ## Session Date & Time
-Wednesday, December 1, 2021
-1:30 PM
+Thursday, December 1, 2022
+10:30 AM

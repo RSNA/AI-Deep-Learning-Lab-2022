@@ -5,5 +5,10 @@
 - Brad Erickson
 
 ## Session Date & Time
-Monday, November 29, 2021
-9:30 AM
+### Part 1
+Tuesday, November 29, 2022
+10:00 AM
+
+### Part 2
+Wednesday, November 30, 2022
+10:00 AM

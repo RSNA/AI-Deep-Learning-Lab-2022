@@ -4,4 +4,5 @@
 - Thomas Loehfelm
 
 ## Session Date & Time
-Unfortunately, the presenter couldn't make it to present live this year. But feel free to peruse the notebook anyway.
+Wednesday, November 30, 2022
+1:00 PM

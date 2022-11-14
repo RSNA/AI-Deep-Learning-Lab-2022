@@ -4,5 +4,5 @@
 - Kathy Andriole
 
 ## Session Date & Time
-Sunday, November 28, 2021
-1:00 PM
+Sunday, November 27, 2022
+10:30 AM

@@ -3,7 +3,8 @@
 ## Presenters
 - Jae Sohn
 - Timothy Chen
+- Gunvant Chaudhari
 
 ## Session Date & Time
-Thursday, December 2, 2021
-11:00 AM
+Monday, November 28, 2022
+3:00 PM
