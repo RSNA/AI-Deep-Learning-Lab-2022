@@ -38,7 +38,7 @@ In this session you will:
 
 ## Components of the tutorial
 
-This tutorial will leverage learning materials available in the IDC notebooks repository:
+This tutorial will leverage learning materials available in the [IDC notebooks repository](https://github.com/ImagingDataCommons/IDC-Examples/blob/master/notebooks):
 
 1. [Setting up the prerequisites](https://github.com/ImagingDataCommons/IDC-Examples/blob/master/notebooks/getting_started/part1_prerequisites.ipynb)
 2. [Basics of searching IDC data](https://github.com/ImagingDataCommons/IDC-Examples/blob/master/notebooks/getting_started/part2_searching_basics.ipynb)
