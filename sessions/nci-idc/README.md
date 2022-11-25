@@ -1,7 +1,7 @@
 # NCI Imaging Data Commons: Curated data and Reproducible AI workflows
 
 ## Presenters
-- Andrey Fedorov, PhD (@fedorov) - Brigham and Women's Hospital / Harvard Medical School, Boston, MA USA
+- Andrey Fedorov, PhD ([@fedorov](https://github.com/fedorov)) - Brigham and Women's Hospital / Harvard Medical School, Boston, MA USA
 
 ## Session Date & Time
 Monday, November 28, 2022
