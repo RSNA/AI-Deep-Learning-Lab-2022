@@ -11,7 +11,7 @@ Monday, November 28, 2022
 
 **What is Imaging Data Commons (IDC)?**
 
-![whatis](https://www.dropbox.com/s/ya8hksca33c68m5/what_is_idc.png?raw=1)
+![whatis](https://raw.githubusercontent.com/RSNA/AI-Deep-Learning-Lab-2022/main/sessions/nci-idc/what_is_idc.png)
 
 * [NCI Imaging Data Commons (IDC)](https://datacommons.cancer.gov/repository/imaging-data-commons) is a cloud-based repository of publicly available cancer imaging data co-located with the analysis and exploration tools and resources 
 * IDC is a node within the broader NCI Cancer Research Data Commons (CRDC) infrastructure that provides secure access to a large, comprehensive, and expanding collection of cancer research data
@@ -22,10 +22,10 @@ Monday, November 28, 2022
 
 [IDC Portal](https://imaging.datacommons.cancer.gov/) is the interactive interface that allows exploring data available in IDC using a small subset of metadata attributes accompanying IDC data, visualize radiology and microscopy images and annotations, save cohorts (subsets of data) under user account based on the available metadata filters.
 
-The real power of IDC comes, however, from programmatic interfaces available to work with IDC data. Most of the capabilities available through those interfaces and APIs are not available in the portal. As few examples
-* download of the image files available in IDC (portal allows you to download a manifest, but download of files referenced from the manifest is currently not easily doable)
-* flexible definition of the selection filters at the level of series, studies or patients (portal exposes a very tiny set of metadata attributes, does not have the flexibility in defining filters that is needed for analysis tasks)
-* portal does not expose clinical metadata available for imaging collections
+The real power of IDC comes, however, from programmatic interfaces available to work with IDC data. Most of the capabilities available through those interfaces and APIs are not available in the portal. As few examples, you can
+* use S3 interface to download image files available in IDC (portal allows you to download a manifest, but download of files referenced from the manifest is currently not easily doable)
+* use SQL interface for flexible definition of the selection filters at the level of series, studies or patients (portal exposes a very tiny set of metadata attributes, does not have the flexibility in defining filters that is needed for analysis tasks)
+* combine imaging metadata with the clinical metadata in defining cohorts (portal does not expose clinical metadata available for imaging collections)
 
 ## Learning objectives
 
