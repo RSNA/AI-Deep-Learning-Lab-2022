@@ -22,7 +22,7 @@ We recommend that you use a computer with a recent vintage processor running the
 | Date / Time | Class | Notebooks |
 | --- | --- | --- |
 | Sunday, November 27, 2022 |
-| Sun 10:30-11:30 am | [DICOM Data Wrangling with Python](https://github.com/RSNA/AI-Deep-Learning-Lab-2022/tree/main/sessions/dicom-wrangling) (_Beginner friendly_) | [Notebook](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2022/blob/main/sessions/dicom-wrangling/DataWrangling2021RSNA16.ipynb) |
+| Sun 10:30-11:30 am | [DICOM Data Wrangling with Python](https://github.com/RSNA/AI-Deep-Learning-Lab-2022/tree/main/sessions/dicom-wrangling) (_Beginner friendly_) | [Notebook](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2022/blob/main/sessions/dicom-wrangling/DataWranglingRSNA2022.ipynb) |
 | Sun 12:00-1:00 pm | [Data Processing & Curation for Deep Learning](https://github.com/RSNA/AI-Deep-Learning-Lab-2022/tree/main/sessions/data-curation) (_Beginner friendly_) | [Notebook](https://colab.research.google.com/github/RSNA/AI-Deep-Learning-Lab-2022/blob/main/sessions/data-curation/RSNA22_DLL_Data_Processing_Curation_for_Deep_Learning.ipynb) |
 | Monday, November 28, 2022 |
 | Mon 9:00-10:00 am | [NCI Imaging Data Commons: Curated data and Reproducible AI workflows](https://github.com/RSNA/AI-Deep-Learning-Lab-2022/tree/main/sessions/nci-idc) (_Beginner friendly_) | [See README in course folder](https://github.com/RSNA/AI-Deep-Learning-Lab-2022/tree/main/sessions/nci-idc) |
